@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="2.4" package="org.example.helloworld" version="1.0.0">
+    <author email="cs15resch11011@iith.ac.in" href="iith.ac.in">Shashwat</author>
+    <profile name="mobile"/>
+    <ui-application appid="org.example.helloworld" exec="helloworld" multiple="false" nodisplay="false" taskmanage="true" type="capp">
+        <label>helloworld</label>
+        <icon>helloworld.png</icon>
+    </ui-application>
+    <feature name="http://tizen.org/feature/screen.size.all"/>
+</manifest>

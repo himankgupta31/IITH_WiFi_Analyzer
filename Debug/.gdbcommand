@@ -1,0 +1,4 @@
+set sysroot /home/shashwat/tizen-sdk/tools/smart-build-interface/../../platforms/tizen-2.4/mobile/rootstraps/mobile-2.4-emulator.core
+set debug-file-directory /home/shashwat/tizen-sdk/tools/smart-build-interface/../../platforms/tizen-2.4/mobile/rootstraps/mobile-2.4-emulator.core/usr/lib/debug
+set solib-search-path /home/shashwat/workspace/HelloWorld/Debug
+dir /home/shashwat/tizen-sdk/tools/smart-build-interface/../../platforms/tizen-2.4/mobile/rootstraps/mobile-2.4-emulator.core/usr/src/debug
